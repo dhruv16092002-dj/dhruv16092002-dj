@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dhruv16092002-dj
+- 👀 I’m interested in softwere development with java and wordpress.
+- 🌱 I’m currently learning pythond and machine learning
+- 💞️ I’m looking to collaborate on who can help me to find work.
+- 📫 How to reach me dhruvvaghasiya448@gmail.com
